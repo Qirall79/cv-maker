@@ -41,5 +41,9 @@
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
-  "homepage": "http://qirall79.github.io/cv-maker"
+  "homepage": "http://qirall79.github.io/cv-maker",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
