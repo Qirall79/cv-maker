@@ -1,0 +1,14 @@
+#edu-container {
+  padding: 20px 30px;
+  grid-column: 1 / 2;
+  grid-row: 3 / 4;
+}
+
+.edu-element {
+  display: flex;
+  gap: 40px;
+}
+
+.edu-element h4 {
+  margin-bottom: 0;
+}

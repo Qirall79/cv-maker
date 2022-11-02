@@ -1,0 +1,14 @@
+#exp-container {
+  padding: 20px 30px;
+  grid-column: 1 / 2;
+  grid-row: 4 / 5;
+}
+
+.exp-element {
+  display: flex;
+  gap: 40px;
+}
+
+.exp-element h4 {
+  margin-bottom: 0;
+}

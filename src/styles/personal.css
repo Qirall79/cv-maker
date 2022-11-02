@@ -1,0 +1,36 @@
+#per-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+#per-container > img {
+  width: 70%;
+  border-radius: 50%;
+  margin-bottom: 40px;
+  align-self: center;
+}
+
+#per-container > .details {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  color: white;
+  font-size: 0.9rem;
+  text-overflow: clip;
+  margin-bottom: 20px;
+}
+
+.icon {
+  width: 25px;
+  display: inline-block;
+}
+
+#details {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  row-gap: 5px;
+  margin-bottom: 20px;
+}

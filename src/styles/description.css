@@ -1,0 +1,9 @@
+#description {
+  padding: 20px 30px;
+}
+
+#description p {
+  font-style: italic;
+  line-height: 1.5;
+  max-width: 500px;
+}
